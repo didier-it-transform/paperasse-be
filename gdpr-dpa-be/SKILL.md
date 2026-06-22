@@ -1,5 +1,5 @@
 ---
-name: rgpd-apd-be
+name: gdpr-dpa-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium + EU

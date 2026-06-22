@@ -1,5 +1,5 @@
 ---
-name: asbl-vzw-be
+name: nonprofit-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium

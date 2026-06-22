@@ -1,5 +1,5 @@
 ---
-name: controleur-spf-be
+name: tax-inspector-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium

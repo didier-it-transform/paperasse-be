@@ -1,5 +1,5 @@
 ---
-name: marches-publics-be
+name: public-procurement-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium

@@ -1,5 +1,5 @@
 ---
-name: syndic-be
+name: condo-manager-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium

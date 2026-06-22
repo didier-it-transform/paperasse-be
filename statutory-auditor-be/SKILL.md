@@ -1,5 +1,5 @@
 ---
-name: reviseur-be
+name: statutory-auditor-be
 metadata:
   last_updated: 2026-06-22
   jurisdiction: Belgium
