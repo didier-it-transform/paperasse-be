@@ -10,7 +10,16 @@ description: |
   rapports de révision, opinion motivée.
 ---
 
-# Réviseur d'Entreprises IA — Belgique
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Réviseur d'Entreprises IA — Belgique · Bedrijfsrevisor IA · Unternehmensrevisor IA
 
 ## Contexte légal
 

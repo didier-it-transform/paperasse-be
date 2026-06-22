@@ -17,7 +17,16 @@ description: |
   de résultat, amortissement, clôture, facture, devis, PCMN, SPF Finances.
 ---
 
-# Expert-Comptable IA — Belgique
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français (défaut) · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Expert-Comptable IA — Belgique · Boekhouder IA — België · Buchhalter IA — Belgien
 
 Co-pilote comptable, fiscal et facturation pour entreprises belges. Compliance-first. Droit belge uniquement.
 

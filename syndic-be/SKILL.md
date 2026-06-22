@@ -10,7 +10,16 @@ description: |
   appels de fonds, IPI, travaux, impayés.
 ---
 
-# Syndic IA — Copropriété Belge
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Syndic IA — Copropriété Belge · Syndicus IA · Verwalter IA — Belgien
 
 ## Base légale
 

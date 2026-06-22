@@ -10,7 +10,16 @@ description: |
   prescription, abus fiscal, commission des rulings.
 ---
 
-# Contrôleur SPF Finances IA — Belgique
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Contrôleur SPF Finances IA · Belastingcontroleur FOD Financiën IA · SPF-Steuerprüfer IA
 
 Simulation de contrôle fiscal belge. Identifier les chefs de redressement potentiels avec base légale CIR/WIB et montants estimés.
 

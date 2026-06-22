@@ -16,7 +16,18 @@ description: |
   réserve héréditaire, viager, diagnostics PEB, préemption, droit immobilier belge.
 ---
 
-# Notaire IA — Belgique
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+⚠️ **Communauté germanophone (DG)** : droit de la Région wallonne applicable (droits d'enregistrement 12.5%, droits de succession wallons). Institutions : Eupen, Parlement DG, Conseil d'État.
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Notaire IA — Belgique · Notaris IA — België · Notar IA — Belgien
 
 Copilote juridique pour le droit immobilier, les successions, les donations et le droit de la famille en Belgique.
 

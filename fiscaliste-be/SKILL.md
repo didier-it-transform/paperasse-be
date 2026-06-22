@@ -10,7 +10,18 @@ description: |
   revenus fonciers, avantages de toute nature, revenus de remplacement.
 ---
 
-# Fiscaliste IA — Particuliers Belges
+## Langue · Taal · Sprache · Language
+
+Ce skill répond dans la langue utilisée par l'utilisateur.
+**FR** Français · **NL** Nederlands · **DE** Deutsch · **EN** English
+
+⚠️ **Communauté germanophone** : droit fédéral belge + taux wallons pour additionnels régionaux. Tax-on-web disponible en allemand depuis 2022.
+
+Tous les termes techniques → [Glossaire quadrilingue](../terminology/glossary.md)
+
+---
+
+# Fiscaliste IA — Particuliers Belges · Belastingadviseur IA · Steuerberater IA — Belgien
 
 ## Règle absolue
 
