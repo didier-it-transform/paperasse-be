@@ -11,18 +11,33 @@ Fork belge de [paperasse](https://github.com/romainsimon/paperasse) par Romain S
 
 ## FR — Français
 
-Collection de skills pour agents IA couvrant la comptabilité (PCMN), la fiscalité (ISOC/IPP/TVA), le droit notarial, la copropriété et la révision d'entreprise en droit belge. Répond en FR · NL · DE · EN selon la langue de votre question.
+Collection de 14 skills pour agents IA couvrant la comptabilité, fiscalité, droit notarial, droit social, urbanisme et marchés publics belges. Répond en FR · NL · DE · EN selon la langue de votre question.
 
-### Les 6 skills
+### Les 14 skills
+
+**Comptabilité & Fiscalité**
 
 | Skill | Rôle | Ce qu'il fait |
 |-------|------|---------------|
 | **`comptable-be`** | Expert-Comptable | PCMN, TVA (21/12/6%), ISOC/IPP, clôture annuelle, comptes annuels CNC, facturation BE, PEPPOL BIS, formes CSA 2019 |
 | **`notaire-be`** | Notaire | Droits d'enregistrement régionaux, émoluments RFBN 2020, succession, donation, cohabitation légale, SRL holding |
 | **`fiscaliste-be`** | Fiscaliste Particuliers | IPP, précompte mobilier 30%, TOB, épargne-pension (EIP/CPTI), stock-options Loi 26/3/1999 |
-| **`syndic-be`** | Syndic de Copropriété | Code Civil art. 3.82-3.111, PCCN, AG (quorums BE), IPI |
 | **`reviseur-be`** | Réviseur d'Entreprises | Audit IRE/ISA, seuils légaux BE, missions légales CSA |
 | **`controleur-spf-be`** | Contrôle SPF Finances | Simulation ISI/BBI, CIR/WIB, TVA, abus fiscal, ruling |
+
+**Droit & Société**
+
+| Skill | Rôle | Ce qu'il fait |
+|-------|------|---------------|
+| **`syndic-be`** | Syndic de Copropriété | Code Civil art. 3.82-3.111, PCCN, AG (quorums BE), IPI |
+| **`social-independant-be`** | Statut social indépendant | INASTI/RSVZ, cotisations trimestrielles, CAS, pension, maladie, maternité, Dimona |
+| **`bail-be`** | Droit du bail résidentiel | 3 régimes régionaux : Décret wallon 2018, Vlaams Huurdecreet 2018, Ordonnance BXL 2017 |
+| **`rgpd-apd-be`** | RGPD / APD belge | Loi 30/07/2018, registre traitements, AIPD, droits personnes, APD sanctions, DPO |
+| **`droit-travail-be`** | Droit du travail | ONSS, Dimona, DmfA, contrats, CP 337, préavis Loi 2013, congés, frais propres |
+| **`asbl-vzw-be`** | ASBL / VZW | CSA 2019 livre 9, constitution, AG, comptabilité simplifiée/double, IPM, don déductible |
+| **`urbanisme-be`** | Urbanisme | CoBAT/CoDT/VCRO, permis d'urbanisme, infractions, PEB/EPC, préemption, renseignements |
+| **`marches-publics-be`** | Marchés publics | Loi 17/06/2016, seuils EU 2024, procédures, MEAT, e-Procurement, standstill, recours |
+| **`assurances-be`** | Assurances | Loi 4/04/2014, FSMA, RC auto, AT (Loi 1971), RC pro, branches 21/23, taxe primes |
 
 ### Installation
 
@@ -43,16 +58,31 @@ Lance ensuite le setup pour la gestion de ma paperasse belge
 
 Collectie van skills voor AI-agenten voor de Belgische boekhouding (MAR/PCMN), fiscaliteit (VenB/PB/BTW), notarieel recht, mede-eigendom en bedrijfsrevisie. Antwoordt in FR · NL · DE · EN naargelang de taal van uw vraag.
 
-### De 6 skills
+### De 14 skills
+
+**Boekhouding & Fiscaliteit**
 
 | Skill | Rol | Wat doet het |
 |-------|-----|-------------|
 | **`comptable-be`** | Boekhouder | MAR/PCMN, BTW (21/12/6%), VenB/PB, jaarafsluiting, jaarrekening NBB, facturatie BE, PEPPOL BIS, WVV 2019 |
 | **`notaire-be`** | Notaris | Registratierechten per gewest, ereloon RFBN 2020, erfenis, schenking, wettelijke samenwoning, BV holding |
 | **`fiscaliste-be`** | Fiscalist particulieren | PB, roerende voorheffing 30%, TOB, pensioensparen (IPT/VAPZ), aandelenopties Wet 26/3/1999 |
-| **`syndic-be`** | Syndicus mede-eigendom | Burgerlijk Wetboek art. 3.82-3.111, PCMN copro, AV (quorums BE), BIV |
 | **`reviseur-be`** | Bedrijfsrevisor | Audit IBR/ISA, wettelijke drempels BE, wettelijke opdrachten WVV |
 | **`controleur-spf-be`** | FOD Financiën controle | Simulatie BBI, WIB, BTW, belastingmisbruik, voorafgaande beslissing |
+
+**Recht & Maatschappij**
+
+| Skill | Rol | Wat doet het |
+|-------|-----|-------------|
+| **`syndic-be`** | Syndicus mede-eigendom | Burgerlijk Wetboek art. 3.82-3.111, PCMN copro, AV (quorums BE), BIV |
+| **`social-independant-be`** | Sociaal statuut zelfstandige | RSVZ, kwartaalbijdragen, sociale verzekeringskassen, pensioen, ziekte, moederschap |
+| **`bail-be`** | Huurrecht | 3 gewestelijke regimes: Waals Decreet 2018, Vlaams Huurdecreet 2018, Brussels Ordonnantie 2017 |
+| **`rgpd-apd-be`** | AVG / GBA | Wet 30/07/2018, register verwerkingen, DPIA, rechten betrokkenen, GBA sancties, DPO |
+| **`droit-travail-be`** | Arbeidsrecht | RSZ, Dimona, DmfA, contracten, PC 337, opzeggingstermijnen Wet 2013, verlof, kostenvergoedingen |
+| **`asbl-vzw-be`** | VZW | WVV 2019 boek 9, oprichting, AV, vereenvoudigde/dubbele boekhouding, RPB, fiscale attesten giften |
+| **`urbanisme-be`** | Ruimtelijke ordening | CoBAT/CoDT/VCRO, omgevingsvergunning, stedenbouwkundige overtredingen, EPC, recht van voorkoop |
+| **`marches-publics-be`** | Overheidsopdrachten | Wet 17/06/2016, EU-drempels 2024, procedures, MEAT, e-Procurement, standstilltermijn, beroep |
+| **`assurances-be`** | Verzekeringen | Wet 4/04/2014, FSMA, BA auto, arbeidsongevallen (Wet 1971), BA beroep, takken 21/23, premietaks |
 
 ### Installatie
 
@@ -69,16 +99,31 @@ Sammlung von Skills für KI-Agenten für belgische Buchhaltung (PCMN), Steuerrec
 
 **Hinweis Deutschsprachige Gemeinschaft (DG):** Das wallonische Recht gilt für Einregistrierungsgebühren und Erbschaftssteuer. Sitz: Eupen. Steuerformulare (Tax-on-web) seit 2022 auf Deutsch verfügbar.
 
-### Die 6 Skills
+### Die 14 Skills
+
+**Buchhaltung & Steuerrecht**
 
 | Skill | Rolle | Funktion |
 |-------|-------|---------|
 | **`comptable-be`** | Buchhalter | PCMN, MwSt (21/12/6%), Körperschaft-/Einkommensteuer, Jahresabschluss, Jahresberichte BNB, Rechnungsstellung BE, PEPPOL BIS, GmbH-Recht 2019 |
 | **`notaire-be`** | Notar | Einregistrierungsgebühren je Region (Flandern 3%, Wallonie 12,5%, Brüssel 12,5%), Notarhonorar RFBN 2020, Erbschaft, Schenkung, gesetzliches Zusammenleben |
 | **`fiscaliste-be`** | Steuerberater Privatpersonen | Einkommensteuer, Kapitalertragsteuer 30%, TOB, Pensionssparen (IPT/VAPZ), Aktienoptionen Gesetz 26/3/1999 |
-| **`syndic-be`** | Wohnungseigentumsverwalter | BGB Art. 3.82-3.111, PCMN Miteigentum, Eigentümerversammlung (BE-Quoren), BIV |
 | **`reviseur-be`** | Unternehmensrevisor | Revision IRE/ISA, gesetzliche Schwellenwerte BE, gesetzliche Mandate GmbH-Recht |
 | **`controleur-spf-be`** | FÖD Finanzen Prüfer | Simulation BBI, EStG/WIB, MwSt, Steuermissbrauch, Vorababstimmung |
+
+**Recht & Gesellschaft**
+
+| Skill | Rolle | Funktion |
+|-------|-------|---------|
+| **`syndic-be`** | Wohnungseigentumsverwalter | BGB Art. 3.82-3.111, PCMN Miteigentum, Eigentümerversammlung (BE-Quoren), BIV |
+| **`social-independant-be`** | Sozialstatut Selbstständige | RSVZ, Quartalsbeiträge, Sozialversicherungskassen, Rente, Krankheit, Mutterschaft |
+| **`bail-be`** | Mietrecht | 3 regionale Regime: Wallonisches Dekret 2018, Flämisches Mietdekret 2018, Brüsseler Ordonnanz 2017 |
+| **`rgpd-apd-be`** | DSGVO / DSB Belgien | Gesetz 30/07/2018, Verarbeitungsregister, DSFA, Betroffenenrechte, GBA-Sanktionen, DSB |
+| **`droit-travail-be`** | Arbeitsrecht | ONSS/RSZ, Dimona, DmfA, Verträge, KP 337, Kündigungsfristen Gesetz 2013, Urlaub, Spesenerstattung |
+| **`asbl-vzw-be`** | Verein ohne Gewinnzweck (VoG) | GmbH-Recht Buch 9, Gründung, Hauptversammlung, vereinfachte/doppelte Buchführung, Körperschaftsteuer |
+| **`urbanisme-be`** | Städtebaurecht | CoBAT/CoDT/VCRO, Baugenehmigung, Verstöße, Energieausweis, Vorkaufsrecht |
+| **`marches-publics-be`** | Öffentliche Aufträge | Gesetz 17/06/2016, EU-Schwellenwerte 2024, Verfahren, MEAT, e-Vergabe, Stillhaltefrist, Rechtsbehelfe |
+| **`assurances-be`** | Versicherungen | Gesetz 4/04/2014, FSMA, Kfz-Haftpflicht, Arbeitsunfälle (Gesetz 1971), Berufshaftpflicht, Zweige 21/23 |
 
 ### Installation
 
@@ -93,16 +138,31 @@ Starte danach das Setup für die Verwaltung meiner belgischen Bürokratie
 
 Collection of AI agent skills for Belgian accounting (PCMN), taxation (corporate/personal/VAT), notarial law, co-ownership and statutory audit. Responds in FR · NL · DE · EN depending on the language of your question.
 
-### The 6 skills
+### The 14 skills
+
+**Accounting & Taxation**
 
 | Skill | Role | What it does |
 |-------|------|-------------|
 | **`comptable-be`** | Accountant | PCMN chart of accounts, VAT (21/12/6%), corporate/personal tax, year-end closing, annual accounts (NBB filing), Belgian invoicing, PEPPOL BIS, CSA 2019 company forms |
 | **`notaire-be`** | Notary | Regional registration duties (Flanders 3%, Wallonia 12.5%, Brussels 12.5%), notary fees RFBN 2020, inheritance, gifts, legal cohabitation, SRL property holding |
 | **`fiscaliste-be`** | Personal tax advisor | Personal income tax, withholding tax 30%, stock exchange tax (TOB), pension savings (EIP/CPTI), stock options Law 26/3/1999 |
-| **`syndic-be`** | Co-ownership manager | Civil Code art. 3.82-3.111, co-ownership accounts (PCCN), general meeting (Belgian quorums), IPI/BIV |
 | **`reviseur-be`** | Statutory auditor | IRE/ISA audit, Belgian legal thresholds, statutory missions under CSA |
 | **`controleur-spf-be`** | FPS Finance inspector | ISI/BBI audit simulation, income tax code, VAT, tax abuse, advance rulings |
+
+**Law & Society**
+
+| Skill | Role | What it does |
+|-------|------|-------------|
+| **`syndic-be`** | Co-ownership manager | Civil Code art. 3.82-3.111, co-ownership accounts (PCCN), general meeting (Belgian quorums), IPI/BIV |
+| **`social-independant-be`** | Self-employed social status | INASTI/RSVZ, quarterly contributions, social insurance funds, pension, sickness, maternity |
+| **`bail-be`** | Residential tenancy law | 3 regional regimes: Walloon Decree 2018, Flemish Tenancy Decree 2018, Brussels Ordinance 2017 |
+| **`rgpd-apd-be`** | GDPR / Belgian DPA | Law 30/07/2018, processing register, DPIA, data subject rights, APD sanctions, DPO |
+| **`droit-travail-be`** | Labour law | ONSS/RSZ, Dimona, DmfA, employment contracts, JC 337, notice periods Law 2013, leave, expense reimbursements |
+| **`asbl-vzw-be`** | Non-profit association | CSA 2019 book 9, incorporation, general meeting, simplified/double accounting, IPM, tax-deductible donations |
+| **`urbanisme-be`** | Planning & zoning | CoBAT/CoDT/VCRO, planning permits, violations, PEB/EPC energy certificates, pre-emption rights |
+| **`marches-publics-be`** | Public procurement | Law 17/06/2016, EU thresholds 2024, procedures, MEAT, e-Procurement, standstill period, appeals |
+| **`assurances-be`** | Insurance | Law 4/04/2014, FSMA, motor liability, workplace accidents (Law 1971), professional liability, branches 21/23 |
 
 ### Installation
 
