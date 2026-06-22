@@ -16,6 +16,89 @@ Croisements : [notary-be](../notary-be/SKILL.md) · [tenancy-be](../tenancy-be/S
 
 ---
 
+## Terminologie quadrilingue · Viertalige terminologie · Viersprachige Terminologie · Quadrilingual Terminology
+
+### Acteurs / Actoren / Akteure / Actors
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Agent immobilier | Vastgoedmakelaar | Immobilienmakler | Real estate agent / Estate agent |
+| Institut Professionnel des Agents Immobiliers (IPI) | Beroepsinstituut van Vastgoedmakelaars (BIV) | Berufsverband der Immobilienmakler | Professional Institute of Real Estate Agents |
+| Vendeur / Bailleur | Verkoper / Verhuurder | Verkäufer / Vermieter | Seller / Landlord |
+| Acheteur | Koper | Käufer | Buyer / Purchaser |
+| Locataire | Huurder | Mieter | Tenant |
+| Mandant | Opdrachtgever | Auftraggeber | Principal / Client |
+| Notaire | Notaris | Notar | Notary |
+| Géomètre | Landmeter | Geometer / Vermessungsingenieur | Surveyor |
+
+### Mandats & contrats / Mandaten & contracten / Mandate & Verträge / Mandates & contracts
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Mandat de vente exclusif | Exclusief verkoopsmandaat | Exklusiver Verkaufsauftrag | Exclusive sales mandate |
+| Mandat de vente non exclusif | Niet-exclusief verkoopsmandaat | Nicht-exklusiver Verkaufsauftrag | Non-exclusive sales mandate |
+| Mandat de location | Verhuurmandaat | Vermietungsauftrag | Rental mandate |
+| Mandat de gestion locative | Beheersmandaat | Verwaltungsauftrag | Property management mandate |
+| Clause de survie | Nalevingsclausule / Overlevingsclausule | Nachfolgeklausel | Survival clause / Tail clause |
+| Compromis de vente | Verkoopovereenkomst / Compromis | Kaufvorvertrag / Kaufversprechen | Sale agreement / Preliminary contract |
+| Acte notarié | Notariële akte | Notarielle Urkunde | Notarial deed |
+| Offre d'achat | Aankoopbod | Kaufangebot | Purchase offer |
+| Condition suspensive | Opschortende voorwaarde | Aufschiebende Bedingung | Suspensive condition |
+| Condition suspensive de crédit | Financieringsvoorbehoud | Finanzierungsvorbehalt | Mortgage/financing condition |
+
+### Documents due diligence / Due diligence documenten / Due-Diligence-Dokumente / Due diligence documents
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Performance Énergétique des Bâtiments (PEB) | Energieprestatiecertificaat (EPC) | Energieausweis (EPB) | Energy Performance Certificate (EPC) |
+| Renseignements urbanistiques | Stedenbouwkundig uittreksel | Städtebaulicher Auszug | Planning information / Zoning extract |
+| Attestation de sol | Bodemattest (OVAM) / BDES | Bodenattest | Soil certificate |
+| Attestation amiante | Asbestattest | Asbestattest | Asbestos certificate |
+| Contrôle électrique (RGIE) | Elektrische keuring (AREI) | Elektrizitätsprüfung (AREI) | Electrical inspection |
+| Attestation citerne | Stookolietankattest | Heizöltankattest | Oil tank certificate |
+| Revenu cadastral | Kadastraal inkomen (KI) | Katasterreinertrag | Cadastral income |
+| Extrait cadastral | Kadastraal uittreksel | Katasterauszug | Cadastral extract |
+| Titre de propriété | Eigendomstitel | Eigentumsnachweis | Title deed |
+
+### Transaction / Transactie / Transaktion / Transaction
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Prix de vente | Verkoopprijs | Verkaufspreis | Sale price / Purchase price |
+| Acompte (10%) | Waarborg / Voorschot (10%) | Anzahlung (10%) | Deposit (10%) |
+| Droits d'enregistrement | Registratierechten | Einregistrierungsgebühren | Registration duties / Stamp duty |
+| Frais d'acte (notaire) | Notariskosten | Notarkosten | Notary fees |
+| Honoraires d'agence | Makelaarsloon / Commissie | Maklercourtage / Maklerprovision | Agency fees / Commission |
+| Plus-value immobilière | Meerwaarde op onroerend goed | Immobiliengewinn / Wertzuwachs | Capital gain on property |
+| Servitude | Erfdienstbaarheid | Grunddienstbarkeit | Easement / Servitude |
+| Hypothèque | Hypotheek | Hypothek | Mortgage |
+| Superficie | Opstalrecht | Erbbaurecht | Ground lease / Superficies |
+| Emphytéose | Erfpacht | Erbpacht | Long lease / Emphyteusis |
+
+### Anti-blanchiment / Witwaspreventie / Geldwäscheprävention / AML
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Anti-blanchiment (AML) | Witwaspreventie (AWW) | Geldwäscheprävention (GWG) | Anti-money laundering (AML) |
+| Cellule de traitement des informations financières (CTF) | Cel voor Financiële Informatieverwerking (CFI) | Zelle für Finanzinformationsverarbeitung | Financial Intelligence Unit (FIU) |
+| Bénéficiaire effectif (UBO) | Uiteindelijk begunstigde (UBO) | Wirtschaftlich Berechtigter (UBO) | Ultimate beneficial owner (UBO) |
+| Connaissance du client (KYC) | Ken uw klant (KYC) | Kenne deinen Kunden (KYC) | Know your customer (KYC) |
+| Déclaration de soupçon | Melding van verdachte transactie | Verdachtsmeldung | Suspicious activity report (SAR) |
+| Gel des avoirs | Bevriezing van tegoeden | Einfrierung von Vermögenswerten | Asset freeze |
+
+### Locations courte durée / Kortetermijnverhuur / Kurzzeitvermietung / Short-term rental
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Location saisonnière / courte durée | Kortetermijnverhuur / Vakantieverhuur | Kurzzeitvermietung / Ferienvermietung | Short-term rental / Holiday let |
+| Permis de location (Flandre) | Verhuurvergunning (Vlaanderen) | Vermietungsgenehmigung (Flandern) | Rental licence (Flanders) |
+| Taxe de séjour | Toeristenbelasting | Kurtaxe / Touristensteuer | Tourist tax / Occupancy tax |
+| Commissariat Général au Tourisme (CGT) | Commissariaat-Generaal voor Toerisme (CGT) | Generalkommissariat für Tourismus | Tourism Commissioner |
+
+---
+
+---
+
 # Agent Immobilier — Belgique · Vastgoedmakelaar · Immobilienmakler · Real Estate Agent
 
 ## Base légale

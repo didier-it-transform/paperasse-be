@@ -173,6 +173,40 @@
 
 ---
 
+## Immobilier / Vastgoed / Immobilien / Real Estate
+
+| Français | Nederlands | Deutsch | English |
+|----------|-----------|---------|---------|
+| Agent immobilier | Vastgoedmakelaar | Immobilienmakler | Real estate agent |
+| IPI / BIV | BIV / IPI | IPI / BIV | Professional Institute of Real Estate Agents |
+| Mandat de vente | Verkoopsmandaat | Verkaufsauftrag | Sales mandate |
+| Mandat exclusif | Exclusief mandaat | Exklusivauftrag | Exclusive mandate |
+| Compromis de vente | Verkoopovereenkomst | Kaufvorvertrag | Sale agreement |
+| Acte notarié | Notariële akte | Notarielle Urkunde | Notarial deed |
+| Offre d'achat | Aankoopbod | Kaufangebot | Purchase offer |
+| Condition suspensive | Opschortende voorwaarde | Aufschiebende Bedingung | Suspensive condition |
+| Acompte | Waarborg / Voorschot | Anzahlung | Deposit |
+| Clause de survie | Overlevingsclausule | Nachfolgeklausel | Survival clause |
+| Revenu cadastral (RC) | Kadastraal inkomen (KI) | Katasterreinertrag | Cadastral income |
+| PEB / EPC | EPC | EPB | Energy performance certificate |
+| Attestation sol (BDES/OVAM) | Bodemattest | Bodenattest | Soil certificate |
+| Attestation amiante | Asbestattest | Asbestattest | Asbestos certificate |
+| Droits d'enregistrement | Registratierechten | Einregistrierungsgebühren | Registration duties |
+| Honoraires d'agence | Makelaarsloon | Maklercourtage | Agency commission |
+| Plus-value immobilière | Meerwaarde onroerend goed | Immobiliengewinn | Capital gain on property |
+| Servitude | Erfdienstbaarheid | Grunddienstbarkeit | Easement |
+| Hypothèque | Hypotheek | Hypothek | Mortgage |
+| Emphytéose | Erfpacht | Erbpacht | Long lease / Emphyteusis |
+| Superficie (droit réel) | Opstalrecht | Erbbaurecht | Ground lease / Superficies |
+| Gestion locative | Rentebeheer / Verhuurbeher | Mietverwaltung | Property management |
+| Location courte durée | Kortetermijnverhuur | Kurzzeitvermietung | Short-term rental |
+| Taxe de séjour | Toeristenbelasting | Kurtaxe | Tourist tax |
+| Anti-blanchiment (AML) | Witwaspreventie | Geldwäscheprävention | Anti-money laundering |
+| Bénéficiaire effectif (UBO) | Uiteindelijk begunstigde | Wirtschaftlich Berechtigter | Ultimate beneficial owner |
+| CTF / CFI | CFI / CTF | CFI / CTF | Financial Intelligence Unit (FIU) |
+
+---
+
 ## Communauté germanophone — Termes spécifiques
 
 La Communauté germanophone (DG) est la 3ème communauté officielle de Belgique.
