@@ -5,15 +5,15 @@
 **DE** · Skills für KI-Agenten spezialisiert auf belgische Bürokratie.
 **EN** · Skills for AI agents specialised in Belgian red tape.
 
-Fork belge de [paperasse](https://github.com/romainsimon/paperasse) par Romain Simon — adapté pour la Belgique par [IT-Transform](https://it-transform.be).
+Fork belge de [paperasse](https://github.com/romainsimon/paperasse) par Romain Simon — adapté pour la Belgique par [Atelya](https://atelya.be).
 
 ---
 
 ## FR — Français
 
-Collection de 15 skills pour agents IA couvrant la comptabilité, fiscalité, droit notarial, droit social, urbanisme, marchés publics et immobilier belges. Répond en FR · NL · DE · EN selon la langue de votre question.
+Collection de 16 skills pour agents IA couvrant la comptabilité, fiscalité, droit notarial, droit social, urbanisme, marchés publics, immobilier et procédures d'exécution belges. Répond en FR · NL · DE · EN selon la langue de votre question.
 
-### Les 15 skills
+### Les 16 skills
 
 **Comptabilité & Fiscalité**
 
@@ -45,10 +45,16 @@ Collection de 15 skills pour agents IA couvrant la comptabilité, fiscalité, dr
 |-------|------|---------------|
 | **`real-estate-agent-be`** | Agent Immobilier | IPI/BIV agrément, mandats, commission, due diligence par région, compromis, anti-blanchiment Loi 2017, Airbnb, gestion locative |
 
+**Procédures d'exécution**
+
+| Skill | Rôle | Ce qu'il fait |
+|-------|------|---------------|
+| **`bailiff-be`** | Huissier de Justice | Significations (art. 32-46 CJ), commandements, saisies (quotités 2025, protection 1 341 EUR), expulsion, vente judiciaire, constats, RCD, tarif AR 30/11/1976 |
+
 ### Installation
 
 ```
-Installe tous les skills du repo github https://github.com/didier-it-transform/paperasse-be
+Installe tous les skills du repo github https://github.com/atelya-be/paperasse-be
 Lance ensuite le setup pour la gestion de ma paperasse belge
 ```
 
@@ -62,9 +68,9 @@ Lance ensuite le setup pour la gestion de ma paperasse belge
 
 ## NL — Nederlands
 
-Collectie van 15 skills voor AI-agenten voor de Belgische boekhouding, fiscaliteit, notarieel recht, sociaal recht, stedenbouw en vastgoed. Antwoordt in FR · NL · DE · EN naargelang de taal van uw vraag.
+Collectie van 16 skills voor AI-agenten voor de Belgische boekhouding, fiscaliteit, notarieel recht, sociaal recht, stedenbouw, vastgoed en gerechtelijke uitvoering. Antwoordt in FR · NL · DE · EN naargelang de taal van uw vraag.
 
-### De 15 skills
+### De 16 skills
 
 **Boekhouding & Fiscaliteit**
 
@@ -96,10 +102,16 @@ Collectie van 15 skills voor AI-agenten voor de Belgische boekhouding, fiscalite
 |-------|-----|-------------|
 | **`real-estate-agent-be`** | Vastgoedmakelaar | BIV-erkenning, mandaten, commissie, due diligence per gewest, compromis, witwaspreventie Wet 2017, kortetermijnverhuur, rentebeheer |
 
+**Gerechtelijke uitvoering**
+
+| Skill | Rol | Wat doet het |
+|-------|-----|-------------|
+| **`bailiff-be`** | Gerechtsdeurwaarder | Betekeningen (art. 32-46 Ger.W.), bevelen, beslagen (quotiteiten 2025, bescherming 1 341 EUR), uithuiszetting, gerechtelijke verkoop, vaststellingsakten, collectieve schuldenregeling, tarief KB 30/11/1976 |
+
 ### Installatie
 
 ```
-Installeer alle skills van de github repo https://github.com/didier-it-transform/paperasse-be
+Installeer alle skills van de github repo https://github.com/atelya-be/paperasse-be
 Start daarna de setup voor het beheer van mijn Belgische administratie
 ```
 
@@ -107,11 +119,11 @@ Start daarna de setup voor het beheer van mijn Belgische administratie
 
 ## DE — Deutsch
 
-Sammlung von 15 Skills für KI-Agenten für belgische Buchhaltung, Steuerrecht, Notariatsrecht, Sozialrecht, Städtebaurecht und Immobilien. Antwortet auf FR · NL · DE · EN je nach Sprache Ihrer Frage.
+Sammlung von 16 Skills für KI-Agenten für belgische Buchhaltung, Steuerrecht, Notariatsrecht, Sozialrecht, Städtebaurecht, Immobilien und Zwangsvollstreckung. Antwortet auf FR · NL · DE · EN je nach Sprache Ihrer Frage.
 
 **Hinweis Deutschsprachige Gemeinschaft (DG):** Das wallonische Recht gilt für Einregistrierungsgebühren und Erbschaftssteuer. Sitz: Eupen. Steuerformulare (Tax-on-web) seit 2022 auf Deutsch verfügbar.
 
-### Die 15 Skills
+### Die 16 Skills
 
 **Buchhaltung & Steuerrecht**
 
@@ -143,10 +155,16 @@ Sammlung von 15 Skills für KI-Agenten für belgische Buchhaltung, Steuerrecht, 
 |-------|-------|---------|
 | **`real-estate-agent-be`** | Immobilienmakler | IPI/BIV-Zulassung, Mandate, Provision, Due-Diligence je Region, Kaufversprechen, Geldwäscheprävention Gesetz 2017, Kurzzeitvermietung, Mietverwaltung |
 
+**Zwangsvollstreckung**
+
+| Skill | Rolle | Funktion |
+|-------|-------|---------|
+| **`bailiff-be`** | Gerichtsvollzieher | Zustellungen (Art. 32-46 GerO), Zahlungsbefehle, Pfändungen (Pfändungsfreigrenzen 2025, Kontoschutz 1 341 EUR), Zwangsräumung, Versteigerung, Feststellungsprotokolle, kollektive Schuldenregelung, Tarif KB 30/11/1976 |
+
 ### Installation
 
 ```
-Installiere alle Skills aus dem GitHub-Repo https://github.com/didier-it-transform/paperasse-be
+Installiere alle Skills aus dem GitHub-Repo https://github.com/atelya-be/paperasse-be
 Starte danach das Setup für die Verwaltung meiner belgischen Bürokratie
 ```
 
@@ -154,9 +172,9 @@ Starte danach das Setup für die Verwaltung meiner belgischen Bürokratie
 
 ## EN — English
 
-Collection of 15 AI agent skills for Belgian accounting, taxation, notarial law, social law, planning and real estate. Responds in FR · NL · DE · EN depending on the language of your question.
+Collection of 16 AI agent skills for Belgian accounting, taxation, notarial law, social law, planning, real estate and debt enforcement. Responds in FR · NL · DE · EN depending on the language of your question.
 
-### The 15 skills
+### The 16 skills
 
 **Accounting & Taxation**
 
@@ -188,10 +206,16 @@ Collection of 15 AI agent skills for Belgian accounting, taxation, notarial law,
 |-------|------|-------------|
 | **`real-estate-agent-be`** | Real Estate Agent | IPI/BIV licence, mandates, commission, regional due diligence, sale agreement, AML Law 2017, short-term rental, property management |
 
+**Debt Enforcement**
+
+| Skill | Role | What it does |
+|-------|------|-------------|
+| **`bailiff-be`** | Bailiff / Process Server | Service of process (art. 32-46 JC), payment orders, garnishment (2025 exempt amounts, €1,341 bank protection), eviction, judicial sale, official records, collective debt settlement, regulated tariff AR 30/11/1976 |
+
 ### Installation
 
 ```
-Install all skills from the github repo https://github.com/didier-it-transform/paperasse-be
+Install all skills from the github repo https://github.com/atelya-be/paperasse-be
 Then run the setup for managing my Belgian administrative paperwork
 ```
 
