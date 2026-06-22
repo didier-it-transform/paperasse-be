@@ -1,0 +1,50 @@
+{
+  "_comment": "Renommer en company.json et adapter à votre société",
+  "name": "Votre Société SRL",
+  "legal_form": "SRL",
+  "enterprise_number": "BE 0XXX.XXX.XXX",
+  "vat_number": "BE 0XXX.XXX.XXX",
+  "vat_regime": "mensuel",
+  "address": {
+    "street": "Rue Example 1",
+    "postal_code": "1000",
+    "city": "Bruxelles",
+    "region": "Bruxelles-Capitale",
+    "country": "BE"
+  },
+  "fiscal_year": {
+    "start": "01-01",
+    "end": "12-31"
+  },
+  "accounting": {
+    "plan": "PCMN",
+    "software": "Winbooks",
+    "currency": "EUR"
+  },
+  "invoicing": {
+    "prefix": "F",
+    "next_numbers": { "2026": 1 },
+    "avoir_prefix": "AV",
+    "payment_terms_days": 30,
+    "late_penalty_rate": "8_percent_plus_ecb",
+    "late_penalty_label": "En cas de retard de paiement, intérêts de 8% + taux BCE, indemnité forfaitaire de 40 EUR (art. 6 Loi 2/8/2002)",
+    "recovery_fee": 40
+  },
+  "einvoicing": {
+    "peppol_id": "0208:0XXX.XXX.XXX",
+    "reception_ready": false,
+    "emission_ready": false
+  },
+  "tax": {
+    "regime": "ISOC",
+    "rate": "25",
+    "sme_rate": "20",
+    "accountant": "IPCF",
+    "filing_deadline": "7ème mois après clôture"
+  },
+  "bank": {
+    "name": "BNP Paribas Fortis",
+    "iban": "BE00 0000 0000 0000",
+    "bic": "GEBABEBB"
+  }
+}
