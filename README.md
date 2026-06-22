@@ -11,9 +11,9 @@ Fork belge de [paperasse](https://github.com/romainsimon/paperasse) par Romain S
 
 ## FR — Français
 
-Collection de 14 skills pour agents IA couvrant la comptabilité, fiscalité, droit notarial, droit social, urbanisme et marchés publics belges. Répond en FR · NL · DE · EN selon la langue de votre question.
+Collection de 15 skills pour agents IA couvrant la comptabilité, fiscalité, droit notarial, droit social, urbanisme, marchés publics et immobilier belges. Répond en FR · NL · DE · EN selon la langue de votre question.
 
-### Les 14 skills
+### Les 15 skills
 
 **Comptabilité & Fiscalité**
 
@@ -39,6 +39,12 @@ Collection de 14 skills pour agents IA couvrant la comptabilité, fiscalité, dr
 | **`public-procurement-be`** | Marchés publics | Loi 17/06/2016, seuils EU 2024, procédures, MEAT, e-Procurement, standstill, recours |
 | **`insurance-be`** | Assurances | Loi 4/04/2014, FSMA, RC auto, AT (Loi 1971), RC pro, branches 21/23, taxe primes |
 
+**Immobilier**
+
+| Skill | Rôle | Ce qu'il fait |
+|-------|------|---------------|
+| **`real-estate-agent-be`** | Agent Immobilier | IPI/BIV agrément, mandats, commission, due diligence par région, compromis, anti-blanchiment Loi 2017, Airbnb, gestion locative |
+
 ### Installation
 
 ```
@@ -56,9 +62,9 @@ Lance ensuite le setup pour la gestion de ma paperasse belge
 
 ## NL — Nederlands
 
-Collectie van skills voor AI-agenten voor de Belgische boekhouding (MAR/PCMN), fiscaliteit (VenB/PB/BTW), notarieel recht, mede-eigendom en bedrijfsrevisie. Antwoordt in FR · NL · DE · EN naargelang de taal van uw vraag.
+Collectie van 15 skills voor AI-agenten voor de Belgische boekhouding, fiscaliteit, notarieel recht, sociaal recht, stedenbouw en vastgoed. Antwoordt in FR · NL · DE · EN naargelang de taal van uw vraag.
 
-### De 14 skills
+### De 15 skills
 
 **Boekhouding & Fiscaliteit**
 
@@ -84,6 +90,12 @@ Collectie van skills voor AI-agenten voor de Belgische boekhouding (MAR/PCMN), f
 | **`public-procurement-be`** | Overheidsopdrachten | Wet 17/06/2016, EU-drempels 2024, procedures, MEAT, e-Procurement, standstilltermijn, beroep |
 | **`insurance-be`** | Verzekeringen | Wet 4/04/2014, FSMA, BA auto, arbeidsongevallen (Wet 1971), BA beroep, takken 21/23, premietaks |
 
+**Vastgoed**
+
+| Skill | Rol | Wat doet het |
+|-------|-----|-------------|
+| **`real-estate-agent-be`** | Vastgoedmakelaar | BIV-erkenning, mandaten, commissie, due diligence per gewest, compromis, witwaspreventie Wet 2017, kortetermijnverhuur, rentebeheer |
+
 ### Installatie
 
 ```
@@ -95,11 +107,11 @@ Start daarna de setup voor het beheer van mijn Belgische administratie
 
 ## DE — Deutsch
 
-Sammlung von Skills für KI-Agenten für belgische Buchhaltung (PCMN), Steuerrecht (Körperschaftsteuer/Einkommensteuer/MwSt), Notariatsrecht, Wohnungseigentum und Unternehmensrevision. Antwortet auf FR · NL · DE · EN je nach Sprache Ihrer Frage.
+Sammlung von 15 Skills für KI-Agenten für belgische Buchhaltung, Steuerrecht, Notariatsrecht, Sozialrecht, Städtebaurecht und Immobilien. Antwortet auf FR · NL · DE · EN je nach Sprache Ihrer Frage.
 
 **Hinweis Deutschsprachige Gemeinschaft (DG):** Das wallonische Recht gilt für Einregistrierungsgebühren und Erbschaftssteuer. Sitz: Eupen. Steuerformulare (Tax-on-web) seit 2022 auf Deutsch verfügbar.
 
-### Die 14 Skills
+### Die 15 Skills
 
 **Buchhaltung & Steuerrecht**
 
@@ -125,6 +137,12 @@ Sammlung von Skills für KI-Agenten für belgische Buchhaltung (PCMN), Steuerrec
 | **`public-procurement-be`** | Öffentliche Aufträge | Gesetz 17/06/2016, EU-Schwellenwerte 2024, Verfahren, MEAT, e-Vergabe, Stillhaltefrist, Rechtsbehelfe |
 | **`insurance-be`** | Versicherungen | Gesetz 4/04/2014, FSMA, Kfz-Haftpflicht, Arbeitsunfälle (Gesetz 1971), Berufshaftpflicht, Zweige 21/23 |
 
+**Immobilien**
+
+| Skill | Rolle | Funktion |
+|-------|-------|---------|
+| **`real-estate-agent-be`** | Immobilienmakler | IPI/BIV-Zulassung, Mandate, Provision, Due-Diligence je Region, Kaufversprechen, Geldwäscheprävention Gesetz 2017, Kurzzeitvermietung, Mietverwaltung |
+
 ### Installation
 
 ```
@@ -136,9 +154,9 @@ Starte danach das Setup für die Verwaltung meiner belgischen Bürokratie
 
 ## EN — English
 
-Collection of AI agent skills for Belgian accounting (PCMN), taxation (corporate/personal/VAT), notarial law, co-ownership and statutory audit. Responds in FR · NL · DE · EN depending on the language of your question.
+Collection of 15 AI agent skills for Belgian accounting, taxation, notarial law, social law, planning and real estate. Responds in FR · NL · DE · EN depending on the language of your question.
 
-### The 14 skills
+### The 15 skills
 
 **Accounting & Taxation**
 
@@ -163,6 +181,12 @@ Collection of AI agent skills for Belgian accounting (PCMN), taxation (corporate
 | **`planning-law-be`** | Planning & zoning | CoBAT/CoDT/VCRO, planning permits, violations, PEB/EPC energy certificates, pre-emption rights |
 | **`public-procurement-be`** | Public procurement | Law 17/06/2016, EU thresholds 2024, procedures, MEAT, e-Procurement, standstill period, appeals |
 | **`insurance-be`** | Insurance | Law 4/04/2014, FSMA, motor liability, workplace accidents (Law 1971), professional liability, branches 21/23 |
+
+**Real Estate**
+
+| Skill | Role | What it does |
+|-------|------|-------------|
+| **`real-estate-agent-be`** | Real Estate Agent | IPI/BIV licence, mandates, commission, regional due diligence, sale agreement, AML Law 2017, short-term rental, property management |
 
 ### Installation
 
