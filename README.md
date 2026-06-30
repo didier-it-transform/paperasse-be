@@ -62,7 +62,7 @@ Lance ensuite le setup pour la gestion de ma paperasse belge
 
 - **Qonto** — transactions bancaires (commun avec paperasse FR)
 - **Stripe** — paiements (commun avec paperasse FR)
-- **Accountable** — comptabilité freelance belge (`integrations/accountable/`)
+- **Accountable** — comptabilité freelance belge (`accountant-be/integrations/accountable/`)
 
 ---
 

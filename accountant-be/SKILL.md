@@ -1,14 +1,10 @@
 ---
 name: accountant-be
 metadata:
-  last_updated: 2026-06-22
+  last_updated: "2026-06-22"
   jurisdiction: Belgium
   source_fork: romainsimon/paperasse (MIT)
-includes:
-  - data/**
-  - scripts/**
-  - integrations/**
-  - company.example.json
+  includes: "data/**, scripts/**, integrations/**, company.example.json"
 description: |
   Comptabilité, fiscalité et facturation pour entreprises belges. Gère écritures PCMN,
   déclarations TVA (SPF Finances), ISOC/IPP, clôture annuelle, comptes annuels CNC,

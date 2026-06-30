@@ -5,7 +5,7 @@ metadata:
   author: IT-Transform
   version: 1.0.0
   category: droit
-  languages: [fr, nl, de, en]
+  languages: "fr, nl, de, en"
 description: >
   Belgian bailiff (huissier de justice / gerechtsdeurwaarder) procedures.
   Covers: service of process (significations), debt enforcement, wage and bank
